@@ -210,29 +210,3 @@ export const simulateFaceScan = () => {
 
 <br/>
 
-## 👨‍💻 Author
-
-<div align="center">
-
-<br/>
-
-Made with ❤️ and ☕ by **Ansh Gupta**
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&lines=Building+the+future%2C+one+commit+at+a+time+🚀" />
-
-</div>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
-
-<div align="center">
-<p>⭐ If you like this project, please consider giving it a star!</p>
-<p>
-  <img src="https://img.shields.io/github/stars/Kkukiii/Vistor-management-system-?style=social" />
-  &nbsp;
-  <img src="https://img.shields.io/github/forks/Kkukiii/Vistor-management-system-?style=social" />
-</p>
-</div>
